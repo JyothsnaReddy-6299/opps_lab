@@ -1,11 +1,11 @@
 public class Data_Operations {
         public static void main(String[] args) {
 
-        // Predefined numbers
+        
         double num1 = 20;
         double num2 = 5;
 
-        // Performing operations
+        
         double add = num1 + num2;
         double sub = num1 - num2;
         double mul = num1 * num2;
@@ -20,4 +20,5 @@ public class Data_Operations {
         System.out.println("division: " + div);
     
 }
+
 }
