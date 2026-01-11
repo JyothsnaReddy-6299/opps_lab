@@ -22,5 +22,6 @@ COURSE NAME: Object Oriented Programming
 
 
 ## 3. CONDITIONAL STATEMENTS                                   
-### a. To check valid Password.                                              
+### a. To check valid Password.  
+### b. ATM Simulation using switch case.  
 
