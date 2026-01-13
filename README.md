@@ -18,11 +18,14 @@ COURSE NAME: Object Oriented Programming
 ### a. Converting celsius to fahrenheit.                                          
 ### b. Converting inches to meter.                                         
 ### c. All the data types.                                            
-### d. All the data operations.                         
+### d. All the data operations.    
 
 
 ## 3. CONDITIONAL STATEMENTS                                   
 ### a. To check valid Password.  
 ### b. ATM Simulation using switch case.
-### c. Electricity bill calculation.
+### c. Electricity bill calculation.             
+### d. Attendence management and exam eligibility.                      
+### e. Shooping discount calculation.                 
+
 
