@@ -26,6 +26,8 @@ COURSE NAME: Object Oriented Programming
 ### b. ATM Simulation using switch case.
 ### c. Electricity bill calculation.             
 ### d. Attendence management and exam eligibility.                      
-### e. Shooping discount calculation.                 
+### e. Shooping discount calculation.  
+### f. To calculate discout.  
+### g. To check valid pin length.  
 
 
