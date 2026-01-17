@@ -12,7 +12,8 @@ OOP LAB - 23CSE111
 #### d. To find average.                                           
 #### e. Greatest among the two numbers.                                              
 #### f. Sum of two numbers.                                             
-#### g. To count number of positive, negative and zeros.                                      
+#### g. To count number of positive, negative and zeros.
+#### h. Swaping using temporary variable.
 
 
 ## 2. DATA TYPES AND OPERATIONS                                   
