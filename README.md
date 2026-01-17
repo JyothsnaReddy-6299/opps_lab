@@ -1,33 +1,35 @@
 OOP LAB - 23CSE111
 ---
-NAME: Jyothsna Reddy Anday   
-ROLL NO: CH.SC.U4CSE25219    
-COURSE NAME: Object Oriented Programming   
+<strong>Name:</strong> Jyothsna Reddy Anday<br>
+<strong>Roll Number:</strong> CH.SC.U4CSE25219<br>
+<strong>Course Name:</strong> Object Oriented Programming<br>
+ 
 ---
-## 1.JAVA PROGRAM    
-### a. Sum of odd numbers.                         
-### b. To find square of a number.                                             
-### c. To print hello.                                                                        
-### d. To find average.                                           
-### e. Greatest among the two numbers.                                              
-### f. Sum of two numbers.                                             
-### g. To count number of positive, negative and zeros.                                      
+## 1.JAVA PROGRAM   
+#### a. Sum of odd numbers.                         
+#### b. To find square of a number.                                             
+#### c. To print hello.                                                                        
+#### d. To find average.                                           
+#### e. Greatest among the two numbers.                                              
+#### f. Sum of two numbers.                                             
+#### g. To count number of positive, negative and zeros.                                      
 
 
 ## 2. DATA TYPES AND OPERATIONS                                   
-### a. Converting celsius to fahrenheit.                                          
-### b. Converting inches to meter.                                         
-### c. All the data types.                                            
-### d. All the data operations.    
+#### a. Converting celsius to fahrenheit.                                          
+#### b. Converting inches to meter.                                         
+#### c. All the data types.                                            
+#### d. All the data operations.    
 
 
 ## 3. CONDITIONAL STATEMENTS                                   
-### a. To check valid Password.  
-### b. ATM Simulation using switch case.
-### c. Electricity bill calculation.             
-### d. Attendence management and exam eligibility.                      
-### e. Shooping discount calculation.  
-### f. To calculate discout.  
-### g. To check valid pin length.  
+#### a. To check valid Password.  
+#### b. ATM Simulation using switch case.
+#### c. Electricity bill calculation.             
+#### d. Attendence management and exam eligibility.                      
+#### e. Shopping discount calculation.  
+#### f. To calculate discout.  
+#### g. To check valid pin length.
+#### h. Tp lock if pin is incorrect more than 3 times.
 
 
