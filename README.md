@@ -25,12 +25,14 @@ OOP LAB - 23CSE111
 
 ## 3. CONDITIONAL STATEMENTS                                   
 #### a. To check valid Password.  
-#### b. ATM Simulation using switch case.
+#### b. ATM Simulation using  (switch case, if-else if-else, do while).
 #### c. Electricity bill calculation.             
 #### d. Attendence management and exam eligibility.                      
 #### e. Shopping discount calculation.  
 #### f. To calculate discout.  
 #### g. To check valid pin length.
-#### h. Tp lock if pin is incorrect more than 3 times.
+#### h. To lock if pin is incorrect more than 3 times.
+#### i. To get the weekday using (Switch case).
+#### j. Simple calculator using (Switch case).
 
 
