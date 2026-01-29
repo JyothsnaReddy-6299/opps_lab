@@ -25,14 +25,30 @@ OOP LAB - 23CSE111
 
 ## 3. CONDITIONAL STATEMENTS                                   
 #### a. To check valid Password.  
-#### b. ATM Simulation using  (switch case, if-else if-else, do while).
-#### c. Electricity bill calculation.             
-#### d. Attendence management and exam eligibility.                      
+#### b. ATM Simulation using  [switch case, if-else if-else, do while].
+#### c. Electricity bill calculation [if-else if-else].             
+#### d. Attendence management and exam eligibility [if-else if-else].                      
 #### e. Shopping discount calculation.  
 #### f. To calculate discout.  
-#### g. To check valid pin length.
+#### g. To check valid pin length [do while, if-else].
 #### h. To lock if pin is incorrect more than 3 times.
-#### i. To get the weekday using (Switch case).
-#### j. Simple calculator using (Switch case).
+#### i. To get the weekday using [Switch case].
+#### j. Simple calculator using [Switch case].
+
+
+## 4. JUMP STATEMENTS                                   
+#### a. Break when negative number entered [break statemnet].  
+#### b. Continue if number is not multiple of 2 [continue statement].
+#### c. All jump Statements [break-continue-return]. 
+
+
+## 5. UML DIAGRAMS
+## I) Use Case Diagram:           
+
+#### a. ATM system.  
+#### b. Online Food Order.
+#### c. Train Ticket Management. 
+#### d. Library Management System. 
+#### e. Online Exam. 
 
 
