@@ -43,7 +43,7 @@ OOP LAB - 23CSE111
 
 ## 5. INHERITANCE                                  
 #### a. To get employee salary details .  
-#### b. To get employee salary details[with constructor].
+#### b. To get employee salary details [with constructor].
 
 ## 6. UML DIAGRAMS
 ## I) Use Case Diagram:           
