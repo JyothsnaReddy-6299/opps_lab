@@ -41,8 +41,11 @@ OOP LAB - 23CSE111
 #### b. Continue if number is not multiple of 2 [continue statement].
 #### c. All jump Statements [break-continue-return]. 
 
+## 5. INHERITANCE                                  
+#### a. To get employee salary details .  
+#### b. To get employee salary details[with constructor].
 
-## 5. UML DIAGRAMS
+## 6. UML DIAGRAMS
 ## I) Use Case Diagram:           
 
 #### a. ATM system.  
