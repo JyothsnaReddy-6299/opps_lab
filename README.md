@@ -42,9 +42,11 @@ OOP LAB - 23CSE111
 #### c. All jump Statements [break-continue-return]. 
 
 ## 5. INHERITANCE                                  
-#### a. To get employee salary details.  
-#### b. To get employee salary details.
-#### b. To get car details [Multi level inheritance].
+#### a. To get employee salary details[Single inheritence].  
+#### b. To Calculate employee Netsalary[Single inheritence].
+#### c. To get car details [Multi level inheritance].
+#### d. Check the interest in Saving Account[Multi level inheritance].
+#### e. Student Details[Constructor]
 
 ## 6. UML DIAGRAMS
 ## I) Use Case Diagram:           
