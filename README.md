@@ -89,6 +89,14 @@ The aim is to understand core Java concepts including variables, control structu
 
 ---
 
+### Object Diagrams
+
+- Online Food Ordering System  
+- Train Ticket Management System  
+- Hospital Management System  
+- Online Examination System  
+
+---
 ### ✨ Author
 
 **Jyothsna Reddy Anday**
