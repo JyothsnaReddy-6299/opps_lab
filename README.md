@@ -36,6 +36,13 @@ The aim is to understand core Java concepts including variables, control structu
 - Demonstration of all data operations  
 
 ---
+## ⏭️ 4. Access Modifiers
+
+- Private to get the student marks 
+- To ge the speed of the car 
+- Protected to get the bank balance  
+
+---
 
 ## 🔀 3. Conditional Statements
 
