@@ -95,6 +95,14 @@ The aim is to understand core Java concepts including variables, control structu
 - Online Examination System  
 
 ---
+### Class Diagrams
+
+- Library Management  
+- Online Shopping System  
+- Hospital Management System 
+- College Management System  
+
+---
 
 ### Object Diagrams
 
