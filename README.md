@@ -109,8 +109,26 @@ The aim is to understand core Java concepts including variables, control structu
 - Online Food Ordering System  
 - Train Ticket Management System  
 - Hospital Management System  
-- Online Examination System  
+- Online Examination System
 
+---
+
+### Polymorphism
+
+- Area of shapes 
+- Employee salary  
+- To allocate hotel rooms 
+- To identify vehicle
+
+---
+
+### Abstraction
+
+- Work of the appliance 
+- Electric vehicle 
+- Different payment mode
+- which type of vehicle
+ 
 ---
 ### ✨ Author
 
