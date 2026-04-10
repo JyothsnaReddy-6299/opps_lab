@@ -128,8 +128,18 @@ The aim is to understand core Java concepts including variables, control structu
 - Electric vehicle 
 - Different payment mode
 - which type of vehicle
+
+ ---
+
+ ### Encapsulation
+ Four questions done.
  
 ---
+
+### Packages
+ Two questions done.
+---
+
 ### ✨ Author
 
 **Jyothsna Reddy Anday**
