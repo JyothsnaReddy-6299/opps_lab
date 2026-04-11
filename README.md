@@ -136,8 +136,10 @@ The aim is to understand core Java concepts including variables, control structu
  
 ---
 
-### Packages
- Two questions done.
+-Packages
+-Exception handling
+-Arrays
+ 
 ---
 
 ### ✨ Author
