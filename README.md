@@ -136,9 +136,9 @@ The aim is to understand core Java concepts including variables, control structu
  
 ---
 
--Packages
--Exception handling
--Arrays
+-Packages     
+-Exception handling    
+-Arrays     
  
 ---
 
